@@ -1,11 +1,11 @@
-# Calculadora em C
+# Calculadora em C :memo:
 
 Este projeto é uma calculadora simples criada para praticar os fundamentos da linguagem C. Foi desenvolvido como parte do curso que assisti no YouTube: [Fundamentos da Linguagem C](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2).
 
-## Índice
+## Índice :rocket:
 
 - [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#funcionalidades) 
 - [Pré-requisitos](#pré-requisitos)
 
 ## Sobre
